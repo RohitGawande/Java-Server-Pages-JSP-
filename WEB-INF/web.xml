@@ -1,0 +1,7 @@
+<web-app>
+<display-name>JSP implicit object</display-name>
+<context-param>
+<param-name>username</param-name>
+<param-value>Rohit</param-value>
+</context-param>
+</web-app>
